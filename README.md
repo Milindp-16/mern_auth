@@ -6,13 +6,7 @@ A full-stack authentication website built with:
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 
-##Project Structure
-  -root
-├── client (React + Vite + Tailwind)
-├── server (Node.js + Express + MongoDB)
-└── README.md
-
-##Features
+## ✨ Features
 
 - User Registration (Signup)
 - Email Verification
@@ -22,7 +16,7 @@ A full-stack authentication website built with:
 - JWT-based Authentication
 - Protected Routes
 
-##Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**  
 - React (Vite)  
